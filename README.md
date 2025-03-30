@@ -1,10 +1,10 @@
 # Java Quick Reference Guide
 
-A comprehensive quick reference guide covering fundamental, object-oriented, and advanced Java programming concepts.
+A comprehensive guide for Java programming fundamentals, object-oriented concepts, and advanced features.
 
-## Guide Contents
+## Guide Structure
 
-### JavaElements.md
+### 1. JavaElements.md
 - Variables and Data Types
 - Operators
 - Control Structures
@@ -12,7 +12,7 @@ A comprehensive quick reference guide covering fundamental, object-oriented, and
 - Methods
 - String Operations
 
-### JavaBasics.md
+### 2. JavaBasics.md
 - Classes and Objects
 - Inheritance
 - Interfaces
@@ -20,69 +20,33 @@ A comprehensive quick reference guide covering fundamental, object-oriented, and
 - Polymorphism
 - Encapsulation
 
-### JavaAdvanced.md
-- **Generics**
-  - Generic classes and methods
-  - Bounded type parameters
-  - Wildcard usage
-  - Type erasure
+### 3. JavaAdvanced.md
+- Generics
+- Collections Framework
+- Multithreading
+- Lambda Expressions
+- Stream API
+- Exception Handling
 
-- **Collections Framework**
-  - Lists, Sets, and Maps
-  - Thread-safe collections
-  - Custom sorting
-  - Queue implementations
-
-- **Multithreading**
-  - Thread creation and management
-  - Synchronization
-  - Thread pools
-  - CompletableFuture
-
-- **Lambda Expressions**
-  - Functional interfaces
-  - Method references
-  - Built-in functional interfaces
-  - Lambda syntax
-
-- **Stream API**
-  - Stream creation
-  - Intermediate operations
-  - Terminal operations
-  - Parallel streams
-  - Collectors
-
-- **Exception Handling**
-  - Custom exceptions
-  - Try-with-resources
-  - Optional class
-  - Stream exception handling
+## Key Features
+- Modern Java development
+- Object-oriented programming
+- Functional programming
+- Concurrent programming
+- Collections framework
+- Stream operations
 
 ## Usage
-
-This guide serves as a complete reference for:
-- Java fundamentals and basics
-- Object-oriented programming
-- Advanced Java features
-- Modern Java development practices
-- Concurrent programming
-- Functional programming concepts
-
-## Code Examples
-
 Each section includes practical, well-commented code examples demonstrating implementation and best practices.
 
 ## Learning Path
-
 1. Start with Elements for core concepts
 2. Move to Basics for OOP fundamentals
 3. Advance to complex features in Advanced
 
-
 ## Contributing
-
 Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## License
-
 This project is licensed under the MIT License - see the LICENSE file for details.
+
